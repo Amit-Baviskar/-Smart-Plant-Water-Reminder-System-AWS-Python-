@@ -14,7 +14,7 @@
 8. [Future Enhancements](#future-enhancements)  
 ---
 
-## 🧠 Overview
+## Overview
 
 This project simulates a smart garden system that:
 - Sends real-time soil moisture data using a Python script
@@ -24,7 +24,7 @@ This project simulates a smart garden system that:
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 
 
@@ -35,7 +35,7 @@ This project simulates a smart garden system that:
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔁 Continuous simulation of soil sensor readings (value from 100 to 0)
 - 📡 Real-time data ingestion via Kinesis
