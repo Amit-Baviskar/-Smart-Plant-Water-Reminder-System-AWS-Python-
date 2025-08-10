@@ -47,7 +47,7 @@ This project simulates a smart garden system that:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** – for data simulation and scripting
 - **AWS Kinesis Data Streams** – to stream real-time data
@@ -58,7 +58,7 @@ This project simulates a smart garden system that:
 
 ---
 
-## 🔁 Project Flow
+##  Project Flow
 
 1. Python script generates fake sensor values (100 → 0)
 2. Each value is sent to a **Kinesis Data Stream**
@@ -109,7 +109,7 @@ Create the event source mapping:
 
 --- 
 
-📈 Key Takeaways
+ Key Takeaways
 
  * Gained real-world experience with AWS event-driven architecture
 
@@ -121,7 +121,7 @@ Create the event source mapping:
 
 ---
 
-🔮 Future Enhancements
+ Future Enhancements
 
 * ✅ Replace simulated data with actual soil sensor (e.g., DHT11/DHT22 + Raspberry Pi)
 
@@ -134,6 +134,6 @@ Create the event source mapping:
 * ✅ Use AWS IoT Core for better IoT scalability
 
 
-📄 License
+ License
 This project is open-source and available under the MIT License.
 
