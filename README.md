@@ -3,16 +3,15 @@
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Flow](#project-flow)
-- [Getting Started](#getting-started)
-- [Key Takeaways](#key-takeaways)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
 
+1. [Overview](#overview)  
+2. [Architecture](#architecture)  
+3. [Features](#features)  
+4. [Tech Stack](#tech-stack)   
+5. [Project Flow](#project-flow)  
+6. [Getting Started](#getting-started)  
+7. [Key Takeaways](#key-takeaways)  
+8. [Future Enhancements](#future-enhancements)  
 ---
 
 ## 🧠 Overview
