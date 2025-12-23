@@ -4,7 +4,7 @@
 
 ## 📌 Table of Contents
 
-1. [Overview](#overview)  
+1. 🌟 [Overview](#overview)  
 2. [Architecture](#architecture)  
 3. [Features](#features)  
 4. [Tech Stack](#tech-stack)   
@@ -14,7 +14,7 @@
 8. [Future Enhancements](#future-enhancements)  
 ---
 
-## Overview
+## 🌟 Overview
 
 This project simulates a smart garden system that:
 - Sends real-time soil moisture data using a Python script
