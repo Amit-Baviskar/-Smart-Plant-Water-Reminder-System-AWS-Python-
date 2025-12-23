@@ -4,7 +4,7 @@
 
 ## 📌 Table of Contents
 
-1. 🌟 [Overview](#overview)  
+1. [Overview](#overview)  
 2. [Architecture](#architecture)  
 3. [Features](#features)  
 4. [Tech Stack](#tech-stack)   
